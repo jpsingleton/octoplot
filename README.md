@@ -55,12 +55,14 @@ Paid most for electricity between Sat 23 May 14:30 and Sat 23 May 15:00 (-12.327
 
 ## Use
 
-Download a pre-built self-contained binary from the releases page.
+Download a pre-built self-contained binary from the releases page and decompress it to a folder.
+Change directory to the folder in a command prompt.
 
-Run the app in a terminal specifying the [region ID character](https://en.wikipedia.org/wiki/Distribution_network_operator#History) for the area you are interested in.
-
-E.g. `octoplot j` for South East England.
+Run the app in your terminal specifying the [region ID character](https://en.wikipedia.org/wiki/Distribution_network_operator#History) for the area you are interested in.
+E.g. `./octoplot j` for South East England.
 The default value is `P` (North Scotland).
+
+Add the folder to your `PATH` if you want to run `octoplot` from anywhere.
 
 ### Regions
 
