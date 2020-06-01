@@ -9,7 +9,11 @@ If you are not already living in the future then you can switch to Octopus Energ
 
 ## Examples
 
+Down [to 11](https://youtu.be/4xgx4k83zzc?t=39s).
+
 ![OctoPlot screenshot](octoplot.png)
+
+Down to 12.
 
 <pre>Getting pricing data...
 
@@ -55,10 +59,12 @@ Paid most for electricity between Sat 23 May 14:30 and Sat 23 May 15:00 (-12.327
 
 ## Use
 
-Download a pre-built self-contained binary from the releases page and decompress it to a folder.
+Download a pre-built self-contained binary from the [releases page](https://github.com/jpsingleton/octoplot/releases) and decompress it to a folder.
+
 Change directory to the folder in a command prompt.
 
 Run the app in your terminal specifying the [region ID character](https://en.wikipedia.org/wiki/Distribution_network_operator#History) for the area you are interested in.
+
 E.g. `./octoplot j` for South East England.
 The default value is `P` (North Scotland).
 
