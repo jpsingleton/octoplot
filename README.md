@@ -110,3 +110,7 @@ dotnet run j
 ## License
 
 Licensed under the [EUPL-1.2-or-later](https://joinup.ec.europa.eu/collection/eupl/introduction-eupl-licence)
+
+This project is _treeware_! If you found it useful then please [plant a tree for me](https://offset.earth/unitsetsoftware).
+
+[![Buy me a tree!](buy-me-a-tree.svg)](https://offset.earth/unitsetsoftware)
