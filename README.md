@@ -5,7 +5,7 @@ OctoPlot is a small command line tool that draws a graph of the [Octopus Energy 
 Agile Octopus is a 100% green electricity tariff that regularly _pays you_ to consume electricity.
 Welcome to the future.
 
-If you are not already living in the future then you can switch to Octopus Energy and get [£50 credit with this referral link](https://share.octopus.energy/storm-loris-49).
+If you are not already living in the future then you can switch to Octopus Energy and get [£50 credit with this referral link](https://share.octopus.energy/witty-wave-889).
 
 ## Examples
 
